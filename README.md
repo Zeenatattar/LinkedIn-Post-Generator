@@ -19,7 +19,7 @@ This project helps you quickly create posts in different tones, categories, hash
 
 ## 🚀 How to Run Locally
 
-### 1️⃣ Clone the repository
+1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Zeenatattar/LinkedIn-Post-Generator.git
 cd LinkedIn-Post-Generator
